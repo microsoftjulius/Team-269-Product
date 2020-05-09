@@ -6,11 +6,11 @@ A data collection app to measure proportion of urban population living in slums,
 
 ## Why
 
-Data gaps across the African continent threaten to hinder the achievement of the Sustainable Development Goals and the African Union’s Agenda 2063. 
-According to the United Nations, 68% of the SDG indicators lack data. This makes it difficult to measure progress on achievement of SDGs.
-The absence of high quality data on various indicators makes it difficult for policy makers and other stakeholders to plan and make informed decisions. 
+Data gaps across the African continent threaten to hinder the achievement of the Sustainable Development Goals and the African Union’s Agenda 2063. According to the United Nations, 68% of the SDG indicators lack data. This makes it difficult to measure progress on achievement of SDGs.The absence of high quality data on various indicators makes it difficult for policy makers and other stakeholders to plan and make informed decisions. 
+
 The number of people living in urban areas is rapidly increasing globally. However, cities and urban areas are not coping with the influx of people and the rate of urbanization. It is estimated that 1 billion people live in slums globally.
 Many countries do not have adequate data on the proportion of the population that live in slums who need adequate housing, which is a basic human right. 
+
 Our solution will therefore help to address SDG 17 and SDG 11, indicator 11.1.1: Proportion of urban population living in slums
 
 
