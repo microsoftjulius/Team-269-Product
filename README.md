@@ -1,4 +1,4 @@
-A one-liner phrase describing this project or app
+A data collection app to measure proportion of urban population living in slums, informal settlements or inadequate housing.
 
 [![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
 
